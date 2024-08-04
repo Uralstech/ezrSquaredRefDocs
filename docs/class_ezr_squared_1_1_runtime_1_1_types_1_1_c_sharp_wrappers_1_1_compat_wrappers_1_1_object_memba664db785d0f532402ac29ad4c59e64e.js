@@ -1,0 +1,5 @@
+var class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_object_memba664db785d0f532402ac29ad4c59e64e =
+[
+    [ "Tag", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_object_memba664db785d0f532402ac29ad4c59e64e.html#abd3504d3fa763ddb54b7349354bfa65b", null ],
+    [ "TypeName", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_object_memba664db785d0f532402ac29ad4c59e64e.html#ae97638e288c3748ddaf97572ef92f933", null ]
+];

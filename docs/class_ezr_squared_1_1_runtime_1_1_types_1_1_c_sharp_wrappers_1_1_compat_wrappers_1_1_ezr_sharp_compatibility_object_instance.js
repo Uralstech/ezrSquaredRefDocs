@@ -1,0 +1,8 @@
+var class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_object_instance =
+[
+    [ "ComputeHashCode", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_object_instance.html#a640764b713a6add3e9c68e919590d6b1", null ],
+    [ "StrictEquals", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_object_instance.html#a8b1cecc439d58dc21e0fc79be8ea25d8", null ],
+    [ "ToString", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_object_instance.html#a00b7d9a8f9ca4b964e25fa6a68fec1d9", null ],
+    [ "Tag", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_object_instance.html#a9aa084f9d1f77742c0c10041ce349988", null ],
+    [ "TypeName", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_object_instance.html#ab8b1e0537f6d5a01b94a26ee11505b31", null ]
+];

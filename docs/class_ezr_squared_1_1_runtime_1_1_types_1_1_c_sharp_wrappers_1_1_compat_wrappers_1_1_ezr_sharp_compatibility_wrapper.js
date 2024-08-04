@@ -1,0 +1,8 @@
+var class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_wrapper =
+[
+    [ "ComparisonEqual", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_wrapper.html#a7e2f688ca7f6c9373b1e9caf1c4158a0", null ],
+    [ "ComparisonNotEqual", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_wrapper.html#acfeeb3bdaaa0eff34cdcc50e14be2a7f", null ],
+    [ "EvaluateBoolean", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_wrapper.html#a1d67f0fd47b84860899ef7f76a23fedf", null ],
+    [ "Tag", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_wrapper.html#a8848a47657bdfbbfd990f38eb61d7091", null ],
+    [ "TypeName", "class_ezr_squared_1_1_runtime_1_1_types_1_1_c_sharp_wrappers_1_1_compat_wrappers_1_1_ezr_sharp_compatibility_wrapper.html#add5a51ae9db96f129e1f5b7811a9b7b0", null ]
+];
